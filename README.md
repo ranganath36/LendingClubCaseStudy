@@ -40,13 +40,11 @@
 
 
 ## Technologies Used
-  python        - version 3.9.12
-  matplotlib    - version 3.5.1
-  Seaborn       - version 0.11.2
+  python        - version 3.9.12</br>
+  matplotlib    - version 3.5.1</br>
+  Seaborn       - version 0.11.2</br>
 
 ## Acknowledgements
-  WikiPedia
+  Wikipedia
 
-## Worked By
-    Ranganath
 
